@@ -1,0 +1,10 @@
+{
+  "description": "ByteSpace is an online learning marketplace offering a diverse range of courses to help users unlock their creativity and enhance their skills.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
